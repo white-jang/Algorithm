@@ -21,9 +21,7 @@ total = 0
 
 n = int(input())
 for i in range(n):
-    p, d = input().split()
-    p = int(p)
-    d = int(d)
+    p, d = map(int, input().split())
     lectureCircuit.append([p,d])
 
 lectureCircuit.sort(key=daySort) # day를 기준으로 오름차순 정렬
