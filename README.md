@@ -29,4 +29,7 @@
 **N개의 최소공배수 (Nlcm)**  
 [프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/12953]
 
+**모의고사 (Test)**  
+[프로그래머스 (Level 1)][https://programmers.co.kr/learn/courses/30/lessons/42840]
+
 <br>
