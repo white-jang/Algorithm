@@ -32,4 +32,7 @@
 **모의고사 (Test)**  
 [프로그래머스 (Level 1)][https://programmers.co.kr/learn/courses/30/lessons/42840]
 
+**오픈채팅방 (OpenChat)**  
+[프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/42888]
+
 <br>
