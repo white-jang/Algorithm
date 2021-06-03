@@ -35,4 +35,6 @@
 **오픈채팅방 (OpenChat)**  
 [프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/42888]
 
+**124 나라의 숫자 (124)**  
+[프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/12899]
 <br>
