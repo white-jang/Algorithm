@@ -37,4 +37,7 @@
 
 **124 나라의 숫자 (124)**  
 [프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/12899]
+
+**점프와 순간이동 (Jump)**
+[프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/12980]
 <br>
