@@ -43,4 +43,7 @@
 
 **가장 큰 수 (BiggestNumber)**
 [프로그래머스 (Level 2)][https://programmers.co.kr/learn/courses/30/lessons/42746]
+
+**소수 만들기 (MakePrime)**
+[프로그래머스 (Level 1)][https://programmers.co.kr/learn/courses/30/lessons/12977]
 <br>
