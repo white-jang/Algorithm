@@ -1,5 +1,10 @@
 # 코딩 테스트 대비 알고리즘 문제 풀이
 
+코딩 테스트를 대비하여 Python과 JS로 다양한 문제들을 풉니다.  
+JS-Lecture 폴더는 인프런의 `자바스크립트 알고리즘 문제풀이(코딩테스트 대비)`를 수강하며 푼 문제들을 모았습니다.
+
+<br>
+
 ## 🐍 Python
 
 **일곱 난쟁이 (SevenDwarfs)**  
@@ -46,4 +51,13 @@
 
 **소수 만들기 (MakePrime)**  
 [프로그래머스 (Level 1)](https://programmers.co.kr/learn/courses/30/lessons/12977)
+
 <br>
+
+## 📓 JavaScript-Lecture
+
+**세 수 중 최솟값** - 01_ThreeNum.js  
+**삼각형 판별하기** - 02_Triangle.js  
+**연필 개수** - 03_Pencile.js  
+**1부터 N까지 합** - 04_Sum1toN.js  
+**최솟값 구하기** - 05_Min.js
