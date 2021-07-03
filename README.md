@@ -60,4 +60,9 @@ JS-Lecture 폴더는 인프런의 `자바스크립트 알고리즘 문제풀이(
 **삼각형 판별하기** - 02_Triangle.js  
 **연필 개수** - 03_Pencile.js  
 **1부터 N까지 합** - 04_Sum1toN.js  
-**최솟값 구하기** - 05_Min.js
+**최솟값 구하기** - 05_Min.js  
+**홀수 (한국정보올림피아드)** - 06_Odd.js  
+**일곱 난쟁이** - 08_SevenDwarfs.js  
+**A를 #으로** - 09_Ato#.js  
+**문자 찾기** - 10_HowmanyChar.js  
+**대문자 찾기** - 11_FoundBig.js
