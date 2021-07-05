@@ -54,7 +54,7 @@ JS-Lecture 폴더는 인프런의 `자바스크립트 알고리즘 문제풀이(
 
 <br>
 
-## 📓 JavaScript-Lecture
+## 📓 JS-Lecture
 
 **세 수 중 최솟값** - 01_ThreeNum.js  
 **삼각형 판별하기** - 02_Triangle.js  
