@@ -65,4 +65,7 @@ JS-Lecture 폴더는 인프런의 `자바스크립트 알고리즘 문제풀이(
 **일곱 난쟁이** - 08_SevenDwarfs.js  
 **A를 #으로** - 09_Ato#.js  
 **문자 찾기** - 10_HowmanyChar.js  
-**대문자 찾기** - 11_FoundBig.js
+**대문자 찾기** - 11_FoundBig.js  
+**대문자로 통일** - 12_toUpper.js  
+**대소문자 변환** - 13_UpperandLower.js  
+**가장 긴 문자열** - 14_LongestText.js
